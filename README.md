@@ -10,7 +10,6 @@
 # 故事
 
 [收获萝卜](https://github.com/bxxfighting/life-code/blob/master/%E6%94%B6%E8%8E%B7%E8%90%9D%E5%8D%9C.md)  
-
 [寻找狗狗](https://github.com/bxxfighting/life-code/blob/master/%E5%AF%BB%E6%89%BE%E7%8B%97%E7%8B%97.md)  
-
 [解救小兔](https://github.com/bxxfighting/life-code/blob/master/%E6%8B%AF%E6%95%91%E5%B0%8F%E5%85%94.md)  
+[秦始皇的命令](https://github.com/bxxfighting/life-code/blob/master/%E7%A7%A6%E5%A7%8B%E7%9A%87%E7%9A%84%E5%91%BD%E4%BB%A4.md)  
